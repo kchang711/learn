@@ -1,0 +1,191 @@
+{
+
+            "services":[
+
+                        {
+
+                                    "path":"admin/data/masterdata/account",
+
+                                    "description":"File contains data for account and its relationship for all clearing corporations"
+
+                        },
+
+                        {
+
+                                    "path":"File contains security information for all clearing corps",
+
+                                    "description":"admin/data/masterdata/security"
+
+                        },
+
+                        {
+
+                                    "path":"Clearing fund requirement from Hermes system",
+
+                                    "description":"data/nscc_clearing_fund/components"
+
+                        },
+
+                        {
+
+                                    "path":"Clearing fund requirements from Hermes system",
+
+                                    "description":"data/nscc_clearing_fund/requirements"
+
+                        },
+
+                        {
+
+                                    "path":"File has market prices",
+
+                                    "description":"admin/data/markets/prices"
+
+                        },
+
+                        {
+
+                                    "path":"File has data from Fame for equity log returns",
+
+                                    "description":"admin/data/markets/price_returns"
+
+                        },
+
+                        {
+
+                                    "path":"admin/data/markets/exchange_rates",
+
+                                    "description":"Exchange rates for currency from vendor"
+
+                        },
+
+                        {
+
+                                    "path":"admin/data/market/indices/bloomberg",
+
+                                    "description":"Index data from Bloomberg vendor"
+
+                        },
+
+                        {
+
+                                    "path":"admin/data/market/indices/merill_lynch/v_1_1",
+
+                                    "description":"Index data from Merill Lynch vendor"
+
+                        },
+
+                        {
+
+                                    "path":"admin/data/market/industry_classification",
+
+                                    "description":"Industry classification with sector details"
+
+                        },
+
+                        {
+
+                                    "path":"admin/data/master/crosswalk",
+
+                                    "description":"Cross reference file for family and cusip"
+
+                        },
+
+                        {
+
+                                    "path":"admin/data/master/cusip_change",
+
+                                    "description":"File has the cusip details from old to new changes"
+
+                        },
+
+                        {
+
+                                    "path":"admin/data/master/security_issue",
+
+                                    "description":"File has security issue details"
+
+                        },
+
+                        {
+
+                                    "path":"admin/data/nscc/occ_adjstd_var_pstn",
+
+                                    "description":"File has occ adjusted var positions"
+
+                        },
+
+                        {
+
+                                    "path":"admin/data/nscc/occ_adjstd_mtm_pstn",
+
+                                    "description":"File has occ adjusted mtm positions"
+
+                        },
+
+                        {
+
+                                    "path":"admin/data/nscc/var_sigma",
+
+                                    "description":"File has volatality sigma values"
+
+                        },
+
+                        {
+
+                                    "path":"admin/data/nscc/var_adt",
+
+                                    "description":"File has var exception data"
+
+                        },
+
+                        {
+
+                                    "path":"admin/data/nscc//afrs",
+
+                                    "description":"File has net capital from AFRS"
+
+                        },
+
+                        {
+
+                                    "path":"admin/data/nscc/",
+
+                                    "description":"File has rating details from AFRS"
+
+                        },
+
+                        {
+
+                                    "path":"admin/data/nscc/business_date",
+
+                                    "description":"File has business dates with history and current offset number"
+
+                        },
+
+                        {
+
+                                    "path":"admin/data/market/industry_sector_xref",
+
+                                    "description":"File to translate the industry to sector information"
+
+                        },
+
+                        {
+
+                                    "path":"admin/data/market/etf_etn_bloomberg",
+
+                                    "description":"File has the ETF and ETN data from Bloomber vendor"
+
+                        },
+
+                        {
+
+                                    "path":"admin/data/market/etf_component",
+
+                                    "description":"File has the details of ETF components"
+
+                        }
+
+            ]
+
+}
